@@ -310,7 +310,7 @@ a:hover {
 }
 
 /* Media Query: tablet or smaller */
-@media scree and (max-width: 1000px) {
+@media screen and (max-width: 1000px) {
     .port-container {
         margin: auto 10px;
     }
