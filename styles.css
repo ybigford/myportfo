@@ -88,15 +88,6 @@ button {
   letter-spacing: 10px;
 }
 
-.portbody {
-  background-color: #FFEEEE;
-  padding-right: 2px;
-  display: inline;
-  justify-content: center;
-
-
-
-}
 
 .programmer {
   position: absolute;
@@ -281,22 +272,31 @@ a:hover {
   justify-content: flex-end;
 }
 
-.port-container {
-  filter: drop-shadow(0 0.4rem #000);
-  background-color: #fff;
-  position: relative;
-  top: 150px;
-  left: 150px;
-  width: 80%;
-  height: 80%;
-  border-radius: 90px 50px 50px 50px;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  opacity: 90%;
 
 
+.portbody {
+  background-color: #FFEEEE;
+  display: flex;
+  justify-content: center;
 
 }
+
+
+
+.port-container {
+  filter: drop-shadow(0 0.4rem 0.4rem #000);
+  background-color: #fff;
+  border-radius: 50px 50px 50px 50px;
+  margin-top: 20px;
+  margin-left: 20px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  opacity: 90%;
+  text-align: left;
+
+}
+
+
 
 .mylist {
   text-decoration-color: #F25287;
