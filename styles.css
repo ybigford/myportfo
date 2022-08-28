@@ -284,7 +284,7 @@ a:hover {
 
 
 .port-container {
-  filter: drop-shadow(0 0.4rem 0.4rem #000);
+  filter: drop-shadow(0 0.5rem 0.5rem #FBC5C5);
   background-color: #fff;
   border-radius: 50px 50px 50px 50px;
   margin-top: 20px;
@@ -293,6 +293,7 @@ a:hover {
   padding-right: 20px;
   opacity: 90%;
   text-align: left;
+  line-height: 26px;
 
 }
 
