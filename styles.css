@@ -93,23 +93,29 @@ button {
   position: absolute;
   left: 70px;
   padding-bottom: 40px;
-
+  display: none;
 
 }
+
+
 
 .and {
   position: absolute;
   right: 200px;
   bottom: 100px;
+  display: none;
 }
+
 
 .tech {
   padding-bottom: 30px;
   position: absolute;
   left: 230px;
   top: 300px;
+  display: none;
 
 }
+
 
 .buck {
   width: 20%;
