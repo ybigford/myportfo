@@ -194,7 +194,8 @@ button {
   .signature {
     color: #fff;
     font-family: "Helvetica", Arial, sans-serif;
-    font-size: 12px;
+    font-size: 11px;
+    letter-spacing: 3px;
     padding: 10px 0;
   }
 
